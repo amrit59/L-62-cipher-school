@@ -1,0 +1,7 @@
+Learned about divide and conqure and little bit about merge sort. No coding part is in this lecture.
+
+Divide and Conquer Algorithm:-> is a problem-solving technique used to solve problems by dividing the main problem into subproblems, solving them individually and then merging them to find solution to the original problem. 
+In this article, we are going to discuss how Divide and Conquer Algorithm is helpful and how we can use it to solve problems.
+
+Merge sort:-> is a sorting algorithm that follows the divide-and-conquer approach. 
+It works by recursively dividing the input array into smaller subarrays and sorting those subarrays then merging them back together to obtain the sorted array.
